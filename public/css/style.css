@@ -1,0 +1,96 @@
+#login{
+    display: flex;
+    align-items: center;
+    height: 650px;
+}
+
+h2{ text-align: center;
+    text-shadow: #000;
+    color:#7339dd;
+}
+
+h4{text-align: end;}
+
+#login a{
+    text-decoration: wavy;
+    }
+
+   body{background: linear-gradient(to right,#FFEFBA,#ffffff);}
+
+#login img{width: 300px;
+            border-radius: 50%;}
+
+#header {background:linear-gradient(to right,#a1eece,#91e8ce);}
+#header a{color: #000;}
+
+
+
+
+
+main{min-height: 81vh;}
+
+#mid button{
+  background: #7339dd;
+}
+
+#mid a{
+  text-decoration: none;
+  text-decoration: #7339dd;
+}
+
+
+
+#footer {background:linear-gradient(to right,#a1eece,#91e8ce);}
+.footer{
+  position: sticky;
+  top: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
